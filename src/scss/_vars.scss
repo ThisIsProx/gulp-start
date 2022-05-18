@@ -1,0 +1,24 @@
+%Mulish-Medium {
+  font-family: 'Mulish', sans-serif;
+  font-weight: 500;
+}
+%Mulish-Regular{
+  font-family: 'Mulish', sans-serif;
+  font-weight: 400;
+}
+
+%Mulish-SemiBold{
+  font-family: 'Mulish', sans-serif;
+  font-weight: 600;
+}
+
+$fontFamily: "Mulish";
+$fontSize: 16;
+$mainColor: #322c38;
+$secondColor: #351458;
+$maxWidth: 1440;
+$maxWidthContainer: 1270;
+$md1: $maxWidthContainer + 12;
+$md2: 991.98;
+$md3: 767.98;
+$md4: 479.98;
